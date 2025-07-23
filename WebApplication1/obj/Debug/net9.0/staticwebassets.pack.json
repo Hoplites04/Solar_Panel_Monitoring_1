@@ -197,6 +197,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "D:\\Coding D\\Solar1\\WebApplication1\\wwwroot\\lib\\chartjs\\chart.js",
+      "PackagePath": "staticwebassets\\lib\\chartjs\\chart.js"
+    },
+    {
       "Id": "D:\\Coding D\\Solar1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },

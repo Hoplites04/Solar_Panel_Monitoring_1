@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TWC1QoMbx/VPMCGPm5LWeX0CyaNNVmRRR2+CF0PbFpY=",
+  "Hash": "62r5MidxPj8LTMfXPODPteGiRxfB1srNyk1M3vjjmYc=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -645,6 +645,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Coding D\\Solar1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "D:\\Coding D\\Solar1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\h2ybtqr7u5-3pj8hrkl16.gz",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Coding D\\Solar1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/chartjs/chart#[.{fingerprint=3pj8hrkl16}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Coding D\\Solar1\\WebApplication1\\wwwroot\\lib\\chartjs\\chart.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3fmmmobk55",
+      "Integrity": "/wD/vdEPbl4Nwp3TyLdQfmStT7F2KklzNAaSEBrTt08=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Coding D\\Solar1\\WebApplication1\\wwwroot\\lib\\chartjs\\chart.js"
     },
     {
       "Identity": "D:\\Coding D\\Solar1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\hpm0ws0t6t-lzl9nlhx6b.gz",
@@ -2409,6 +2430,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "D:\\Coding D\\Solar1\\WebApplication1\\wwwroot\\lib\\chartjs\\chart.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Coding D\\Solar1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/chartjs/chart#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3pj8hrkl16",
+      "Integrity": "t5Ka1NUyO4JE+F15u6Cz0UleZveaLwAjvn9N5bpPusg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\chartjs\\chart.js"
     },
     {
       "Identity": "D:\\Coding D\\Solar1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
@@ -16812,6 +16854,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/chartjs/chart.3pj8hrkl16.js",
+      "AssetFile": "D:\\Coding D\\Solar1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\h2ybtqr7u5-3pj8hrkl16.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014033118"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71259"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/wD/vdEPbl4Nwp3TyLdQfmStT7F2KklzNAaSEBrTt08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 05:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"t5Ka1NUyO4JE+F15u6Cz0UleZveaLwAjvn9N5bpPusg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3pj8hrkl16"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/chartjs/chart.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t5Ka1NUyO4JE+F15u6Cz0UleZveaLwAjvn9N5bpPusg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/chartjs/chart.3pj8hrkl16.js",
+      "AssetFile": "D:\\Coding D\\Solar1\\WebApplication1\\wwwroot\\lib\\chartjs\\chart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t5Ka1NUyO4JE+F15u6Cz0UleZveaLwAjvn9N5bpPusg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 05:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3pj8hrkl16"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/chartjs/chart.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t5Ka1NUyO4JE+F15u6Cz0UleZveaLwAjvn9N5bpPusg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/chartjs/chart.3pj8hrkl16.js.gz",
+      "AssetFile": "D:\\Coding D\\Solar1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\h2ybtqr7u5-3pj8hrkl16.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/wD/vdEPbl4Nwp3TyLdQfmStT7F2KklzNAaSEBrTt08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 05:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3pj8hrkl16"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/chartjs/chart.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/wD/vdEPbl4Nwp3TyLdQfmStT7F2KklzNAaSEBrTt08="
+        }
+      ]
+    },
+    {
+      "Route": "lib/chartjs/chart.js",
+      "AssetFile": "D:\\Coding D\\Solar1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\h2ybtqr7u5-3pj8hrkl16.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014033118"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71259"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/wD/vdEPbl4Nwp3TyLdQfmStT7F2KklzNAaSEBrTt08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 05:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"t5Ka1NUyO4JE+F15u6Cz0UleZveaLwAjvn9N5bpPusg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t5Ka1NUyO4JE+F15u6Cz0UleZveaLwAjvn9N5bpPusg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/chartjs/chart.js",
+      "AssetFile": "D:\\Coding D\\Solar1\\WebApplication1\\wwwroot\\lib\\chartjs\\chart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t5Ka1NUyO4JE+F15u6Cz0UleZveaLwAjvn9N5bpPusg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 05:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t5Ka1NUyO4JE+F15u6Cz0UleZveaLwAjvn9N5bpPusg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/chartjs/chart.js.gz",
+      "AssetFile": "D:\\Coding D\\Solar1\\WebApplication1\\obj\\Debug\\net9.0\\compressed\\h2ybtqr7u5-3pj8hrkl16.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/wD/vdEPbl4Nwp3TyLdQfmStT7F2KklzNAaSEBrTt08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 05:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/wD/vdEPbl4Nwp3TyLdQfmStT7F2KklzNAaSEBrTt08="
         }
       ]
     },

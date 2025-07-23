@@ -1,8 +1,15 @@
+using WebApplication1.Database;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
+// Register AppDbContext
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlite("Data Source=app.db"));  // SQLite connection string
+
 // Add services to the container.
-var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
-builder.WebHost.UseUrls($"http://*:{port}");
+// var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+// builder.WebHost.UseUrls($"http://*:{port}");
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
