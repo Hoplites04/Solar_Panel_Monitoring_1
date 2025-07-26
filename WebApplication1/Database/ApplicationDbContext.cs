@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using WebApplication1.Database;
+using WebApplication1.Models;
 
 namespace WebApplication1.Database
 {
@@ -11,6 +12,7 @@ namespace WebApplication1.Database
         }
 
         // Example table:
+        public DbSet<InverterData> InverterData { get; set; }
 
     }
 }
